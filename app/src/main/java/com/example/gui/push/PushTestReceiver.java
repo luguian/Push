@@ -14,7 +14,7 @@ import java.util.List;
 public class PushTestReceiver extends PushMessageReceiver{
     @Override
     public void onBind(Context context, int i, String s, String s1, String s2, String s3) {
-      Log.d("system.out",i+""+s3);
+      
     }
 
     @Override
